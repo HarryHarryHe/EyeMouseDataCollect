@@ -1,13 +1,4 @@
 eye_images**/*
-*.jpg
-*.png
-*.jpeg
-*.gif
-*.svg
-*.ico
-
-
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
